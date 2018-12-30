@@ -5,10 +5,10 @@
 <h6>Start: 20-Dec-18<br>
 Finish: - </h6>
 
-- [x] [Sec 1](https://github.com/ZeroHX/C-Learning/tree/master/sec1)  : Starting with C Programming
-- [x] [Sec 2](https://github.com/ZeroHX/C-Learning/tree/master/sec2)  : If-Else
+- [x] [Sec 1](https://github.com/ZeroHX/C-Learning/blob/master/sec1/sec1_all.md)  : Starting with C Programming
+- [x] [Sec 2](https://github.com/ZeroHX/C-Learning/blob/master/sec2/sec2_all.md)  : If-Else
 - [x] [Sec 3](https://github.com/ZeroHX/C-Learning/tree/master/sec3)  : Loop
-- [x] [Sec 4](https://github.com/ZeroHX/C-Learning/tree/master/sec4)  : Manage Error
+- [x] [Sec 4](https://github.com/ZeroHX/C-Learning/tree/master/sec4)  : Error
 - [ ] Sec 5  : Function
 - [ ] Sec 6  : Switch case
 - [ ] Sec 7  : Pointer
