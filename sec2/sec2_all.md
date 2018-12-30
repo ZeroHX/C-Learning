@@ -40,4 +40,4 @@ else
    // statement(s)
 }
 ```
-[To lecture...](https://github.com/ZeroHX/C-Learning/tree/master/sec2)
+[To lecture...(code in src)](https://github.com/ZeroHX/C-Learning/tree/master/sec2)
