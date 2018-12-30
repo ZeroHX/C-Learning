@@ -1,7 +1,7 @@
 # Zero to One : C Programming
 ## by [BorntoDev](https://academy.borntodev.com)<br><br>
 
-## Progressing  [![pro](http://progressed.io/bar/54)](#pro)
+## Progressing  [![pro](http://progressed.io/bar/58)](#pro)
 <h6>Start: 20-Dec-18<br>
 Finish: - </h6>
 
