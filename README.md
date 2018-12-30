@@ -1,7 +1,7 @@
-# Zero to One : C Programming :star:
+# Zero to One : C Programming
 ## by [BorntoDev](https://academy.borntodev.com)<br><br>
 
-## :construction: Progressing  [![pro](http://progressed.io/bar/38)](#pro)
+## Progressing  [![pro](http://progressed.io/bar/38)](#pro)
 ###### Start: 20-Dec-18
 ###### Finish: - 
 - [x] [Sec 1](https://github.com/ZeroHX/C-Learning/tree/master/sec1) : Starting with C Programming
