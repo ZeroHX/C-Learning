@@ -8,10 +8,10 @@ int main(void) {
 	scanf("%d",&inputNumber);
 	
   if(inputNumber = num){
-  printf("Correct!!");
+  	printf("Correct!!");
   }
-	else{
-		printf("Wrong!!");
-	}
+  else{
+	printf("Wrong!!");
+  }
 }
 ```
