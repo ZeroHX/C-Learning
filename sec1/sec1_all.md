@@ -19,7 +19,6 @@ scanf("%d",&inputNumber);
 #include <stdio.h>
 int main() {
     int inputNumber;
-    printf("Enter your number:\n");
     scanf("%d",&inputNumber);
     printf("Number is %d",inputNumber);
 }
