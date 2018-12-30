@@ -1,4 +1,4 @@
-# :star: Zero to One : C Programming :star:
+# Zero to One : C Programming :star:
 ## by [BorntoDev](https://academy.borntodev.com)<br><br>
 
 ## :construction: Progressing  [![pro](http://progressed.io/bar/38)](#pro)
