@@ -1,0 +1,26 @@
+# Sample form
+```c
+/*Section1 All*/
+#include <stdio.h>
+int main(){
+    printf("Hello World!!");//Show Message to user
+    
+}
+```
+
+## Input, we use scanf()
+```c
+int inputNumber;
+scanf("%d",&inputNumber);
+```
+
+## Example
+```c
+#include <stdio.h>
+int main() {
+    int inputNumber;
+    printf("Enter your number:\n");
+    scanf("%d",&inputNumber);
+    printf("Number is %d",inputNumber);
+}
+```
