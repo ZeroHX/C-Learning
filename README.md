@@ -1,12 +1,12 @@
-# Zero to One : C Programming
+# :star: Zero to One : C Programming :star:
 ## by [BorntoDev](https://academy.borntodev.com)
 
-## Progressing  [![pro](http://progressed.io/bar/38)](#pro)
+## :construction: Progressing  [![pro](http://progressed.io/bar/38)](#pro)
 ###### Start: 20-Dec-18
 ###### Finish: - 
-- [x] Sec 1 : Starting with C Programming
-- [x] Sec 2 : If-Else
-- [x] Sec 3 : Loop
+- [x] [Sec 1](https://github.com/ZeroHX/C-Learning/tree/master/sec1) : Starting with C Programming
+- [x] [Sec 2](https://github.com/ZeroHX/C-Learning/tree/master/sec2) : If-Else
+- [x] [Sec 3](https://github.com/ZeroHX/C-Learning/tree/master/sec3) : Loop
 - [ ] Sec 4 : Manage Error
 - [ ] Sec 5 : Function
 - [ ] Sec 6 : Switch case
