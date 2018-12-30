@@ -24,3 +24,4 @@ int main() {
     printf("Number is %d",inputNumber);
 }
 ```
+[To lecture...](https://github.com/ZeroHX/C-Learning/tree/master/sec1)
