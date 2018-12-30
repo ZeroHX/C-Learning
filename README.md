@@ -2,8 +2,9 @@
 ## by [BorntoDev](https://academy.borntodev.com)<br><br>
 
 ## Progressing  [![pro](http://progressed.io/bar/38)](#pro)
-###### Start: 20-Dec-18<br>
-###### Finish: - 
+<h6>Start: 20-Dec-18<br>
+Finish: - </h6>
+
 - [x] [Sec 1](https://github.com/ZeroHX/C-Learning/tree/master/sec1) : Starting with C Programming
 - [x] [Sec 2](https://github.com/ZeroHX/C-Learning/tree/master/sec2) : If-Else
 - [x] [Sec 3](https://github.com/ZeroHX/C-Learning/tree/master/sec3) : Loop
