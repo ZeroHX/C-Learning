@@ -1,7 +1,7 @@
 # Zero to One : C Programming
 ## by [BorntoDev](https://academy.borntodev.com)<br><br>
 
-## Progressing  [![pro](http://progressed.io/bar/58)](#pro)
+## Progressing  [![pro](http://progressed.io/bar/66)](#pro)
 <h6>Start: 20-Dec-18<br>
 Finish: - </h6>
 
@@ -14,7 +14,7 @@ Finish: - </h6>
 - [ ] Sec 7  : Pointer
 - [ ] Sec 8  : Struct
 - [ ] Sec 9  : Array
-- [ ] Sec 10 : String
+- [x] Sec 10 : String
 
 [MyWebsite(on test)](https://zerohx.github.io/C-Learning/)
 
