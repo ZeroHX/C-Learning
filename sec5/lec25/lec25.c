@@ -1,7 +1,7 @@
 /*
 ==================================
 Born2DEV : C-programming zero2one
-Section3, Lecture25 [Function Return]
+Section5, Lecture25 [Function Return]
 ==================================
 */
 #include <stdio.h>

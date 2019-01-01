@@ -1,7 +1,7 @@
 /*
 ==================================
 Born2DEV : C-programming zero2one
-Section3, Lecture26 [Function Argument]
+Section5, Lecture26 [Function Argument]
 ==================================
 */
 #include <stdio.h>

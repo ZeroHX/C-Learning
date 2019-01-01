@@ -1,7 +1,7 @@
 /*
 ==================================
 Born2DEV : C-programming zero2one
-Section3, Lecture23 [Function Random]
+Section5, Lecture23 [Function Random]
 ==================================
 */
 #include <stdio.h>

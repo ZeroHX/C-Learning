@@ -1,7 +1,7 @@
 /*
 ==================================
 Born2DEV : C-programming zero2one
-Section3, Lecture26 [Function gradeEX]
+Section5, Lecture26 [Function gradeEX]
 ==================================
 */
 #include <stdio.h>

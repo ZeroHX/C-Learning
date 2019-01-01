@@ -1,7 +1,7 @@
 /*
 ==================================
 Born2DEV : C-programming zero2one
-Section3, Lecture24 [Function Void]
+Section5, Lecture24 [Function Void]
 ==================================
 */
 #include <stdio.h>
