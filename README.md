@@ -1,7 +1,7 @@
 # Zero to One : C Programming
 ## by [BorntoDev](https://academy.borntodev.com)<br><br>
 
-## Progressing  [![pro](http://progressed.io/bar/74)](#pro)
+## Progressing  [![pro](http://progressed.io/bar/84)](#pro)
 <h6>Start: 20-Dec-18<br>
 Finish: - </h6>
 
@@ -10,8 +10,8 @@ Finish: - </h6>
 - [x] [Sec 3](https://github.com/ZeroHX/C-Learning/blob/master/sec3/read3.md)  : Loop
 - [x] [Sec 4](https://github.com/ZeroHX/C-Learning/tree/master/sec4)  : Error
 - [x] Sec 5  : Function
-- [ ] Sec 6  : Switch case
-- [ ] Sec 7  : Pointer
+- [x] Sec 6  : Switch case
+- [x] Sec 7  : Pointer
 - [ ] Sec 8  : Struct
 - [ ] Sec 9  : Array
 - [x] Sec 10 : String
