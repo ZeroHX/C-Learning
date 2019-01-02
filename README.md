@@ -1,9 +1,9 @@
 # Zero to One : C Programming
 ## by [BorntoDev](https://academy.borntodev.com)<br><br>
 
-## Progressing  [![pro](http://progressed.io/bar/84)](#pro)
+## Progressing  [![pro](http://progressed.io/bar/100)](#pro)
 <h6>Start: 20-Dec-18<br>
-Finish: - </h6>
+Finish: 2-Jan-19</h6>
 
 - [x] [Sec 1](https://github.com/ZeroHX/C-Learning/blob/master/sec1/read1.md)  : Starting with C Programming
 - [x] [Sec 2](https://github.com/ZeroHX/C-Learning/blob/master/sec2/read2.md)  : If-Else
