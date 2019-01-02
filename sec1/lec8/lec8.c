@@ -9,7 +9,7 @@ int main() {
     int inputNumber;
     //setbuf(stdout, NULL);
     printf("Enter your age:\n");
-    scanf("%d",&inputNumber);
+    scanf("%d", &inputNumber);
     printf("Age: %d",inputNumber);
     return 0;
 }
