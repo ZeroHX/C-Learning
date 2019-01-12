@@ -1,4 +1,4 @@
-# :star: Section 2: Loop
+# :star: Section 3: Loop
 
 ## :arrows_counterclockwise: Loop for
 ```c
