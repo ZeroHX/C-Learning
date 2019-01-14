@@ -8,7 +8,7 @@ Finish: 2-Jan-19</h6>
 - [x] [Sec 1](https://github.com/ZeroHX/C-Learning/blob/master/sec1/read1.md)  : Starting with C Programming
 - [x] [Sec 2](https://github.com/ZeroHX/C-Learning/blob/master/sec2/read2.md)  : If-Else
 - [x] [Sec 3](https://github.com/ZeroHX/C-Learning/blob/master/sec3/read3.md)  : Loop
-- [x] [Sec 4](https://github.com/ZeroHX/C-Learning/tree/master/sec4)  : Error
+- [x] [Sec 4](https://github.com/ZeroHX/C-Learning/tree/master/sec4/read4.md)  : Error
 - [x] [Sec 5](https://github.com/ZeroHX/C-Learning/tree/master/sec5)  : Function
 - [x] [Sec 6](https://github.com/ZeroHX/C-Learning/tree/master/sec6)  : Switch case
 - [x] [Sec 7](https://github.com/ZeroHX/C-Learning/tree/master/sec7)  : Pointer
